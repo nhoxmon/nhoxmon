@@ -9,7 +9,7 @@
 
 ## 🎯 MỤC TIÊU NGHỀ NGHIỆP
 
-Sinh viên năm X ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm và trí tuệ nhân tạo. Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
+Sinh viên năm 1 ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM, định hướng phát triển trong lĩnh vực phát triển phần mềm và trí tuệ nhân tạo. Mục tiêu ngắn hạn là tích lũy kinh nghiệm qua các dự án thực tế và môi trường doanh nghiệp chuyên nghiệp.
 
 ---
 
