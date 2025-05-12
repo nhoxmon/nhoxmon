@@ -1,8 +1,8 @@
-# 🧑‍💻 HỌ VÀ TÊN
+# 🧑‍💻 TRẦN PHÚC DUY
 
-- 📞 09xxxxxxxx  
-- 📧 yourname@example.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)  
+- 📞 0386286401  
+- 📧 duytrcphc@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/phucduy8626/) • [GitHub]((https://github.com/nhoxmon))  
 - 📍 Quận X, TP.HCM
 
 ---
@@ -17,9 +17,7 @@ Sinh viên năm X ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM
 
 **Trường Đại học Mở TP.HCM**  
 _Bachelor of Science in Computer Science_  
-📅 2021 – nay  
-- GPA: 3.5 / 4.0  
-- Môn học tiêu biểu: Cấu trúc dữ liệu & Giải thuật, Lập trình Python, Học máy cơ bản, Cơ sở dữ liệu
+📅 2024 – nay  
 
 ---
 
@@ -29,74 +27,49 @@ _Bachelor of Science in Computer Science_
 
 | Kỹ năng                  | Biểu tượng | Mức độ       |
 |--------------------------|------------|--------------|
-| Python                   | 🐍         | ⭐⭐⭐⭐☆        |
-| C++                      | 💻         | ⭐⭐⭐⭐☆        |
-| Java                     | ☕         | ⭐⭐⭐☆☆        |
-| HTML/CSS                 | 🌐         | ⭐⭐⭐⭐☆        |
-| JavaScript               | ⚙️         | ⭐⭐⭐☆☆        |
-| MySQL                    | 📊         | ⭐⭐⭐☆☆        |
+| C++                      | 💻         | ⭐⭐☆☆☆        |
+| HTML/CSS                 | 🌐         | ⭐☆☆☆☆        |
+| JavaScript               | ⚙️         | ⭐☆☆☆☆        |
+| MySQL                    | 📊         | ⭐☆☆☆☆        |
 | Git & GitHub             | 🛠         | ⭐⭐⭐⭐☆        |
-| Machine Learning (Sklearn)| 🧠        | ⭐⭐⭐☆☆        |
 
-### 🧪 Công cụ & Thư viện
 
-- 🔬 Pandas, Matplotlib, Seaborn cho phân tích dữ liệu  
-- 🧠 Scikit-learn cho mô hình học máy cơ bản  
-- 🌍 Flask cho phát triển web backend đơn giản  
-- ✅ Pytest cho kiểm thử tự động
 
 ---
 
 ## 🧪 CÁC BADGES CÔNG NGHỆ
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ---
 
 ## 💼 DỰ ÁN / KINH NGHIỆM
 
 ### 📌 Student Management System – Cá nhân  
-**Công nghệ:** Python, Tkinter, SQLite  
-- Thiết kế phần mềm quản lý sinh viên: thêm, sửa, tìm kiếm dữ liệu  
-- Áp dụng OOP và CRUD trong mô hình MVC cơ bản  
-
-### 🌐 Tech Product Landing Page – Nhóm 3 người  
-**Công nghệ:** HTML, CSS, JavaScript  
-- Xây dựng giao diện landing page giới thiệu sản phẩm công nghệ  
-- Thiết kế responsive UI, form liên hệ, triển khai GitHub Pages  
-
-### 🔍 Smart OCR System (Demo)  
-**Công nghệ:** Python, OpenCV, Flask  
-- Nhận dạng văn bản từ ảnh in ấn  
-- Tiền xử lý ảnh + tích hợp OCR engine (Tesseract)
+**Công nghệ:** C++  
+- Thiết kế phần mềm quản lý sinh viên: thêm, sửa, tìm kiếm dữ liệu   
 
 ---
 
 ## 📚 HOẠT ĐỘNG & CỘNG ĐỒNG
 
-- Thành viên CLB Lập trình – ĐH Mở TP.HCM (2022 – nay)  
-- Tình nguyện viên "Hour of Code" tại trường THPT chuyên Lê Hồng Phong  
-- Viết blog chia sẻ kiến thức Python & Data Science (2024 – nay)
+- Thành viên CLB N.I.M – ĐH Mở TP.HCM (2022 – nay)  
 
 ---
 
 ## 🏆 CHỨNG CHỈ & GIẢI THƯỞNG
 
-- ✅ Chứng chỉ “Python for Everybody” – Coursera (2023)  
-- 🥈 Top 10 Code Battle – Trường ĐH Mở TP.HCM (2024)  
-- 🗣 IELTS 6.5 – British Council (2024)
+- 🗣 IELTS 5.0 – IDP (2020)
 
 ---
 
 ## 🌍 NGÔN NGỮ & SỞ THÍCH
 
 - 🔤 Tiếng Việt (native), Tiếng Anh (giao tiếp & kỹ thuật tốt)  
-- 🧠 Sở thích: AI & Deep Learning, viết blog kỹ thuật, đọc sách công nghệ  
+- 🧠 Sở thích: đọc sách công nghệ, tìm hiểu và lắp ráp các món công nghệ  
 
 ---
 
