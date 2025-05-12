@@ -45,6 +45,13 @@ _Bachelor of Science in Computer Science_
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+## 💼 DỰ ÁN / KINH NGHIỆM
+
+### 📌 AUTO REMINDER PROJECT – Cá nhân  
+**Công nghệ:** Javascript  
+- Thiết kế phần mềm nhắc nhở công việc: tìm kiếm, phân loại công việc và đồng thời gửi gmail nhắc nhở  
+
+---
 
 ## 📚 HOẠT ĐỘNG & CỘNG ĐỒNG
 
