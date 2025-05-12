@@ -3,7 +3,7 @@
 - 📞 0386286401  
 - 📧 duytrcphc@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/phucduy8626/) • [GitHub]((https://github.com/nhoxmon))  
-- 📍 Quận X, TP.HCM
+- 📍 TP.HCM
 
 ---
 
@@ -31,7 +31,7 @@ _Bachelor of Science in Computer Science_
 | HTML/CSS                 | 🌐         | ⭐☆☆☆☆        |
 | JavaScript               | ⚙️         | ⭐☆☆☆☆        |
 | MySQL                    | 📊         | ⭐☆☆☆☆        |
-| Git & GitHub             | 🛠         | ⭐⭐⭐⭐☆        |
+| Git & GitHub             | 🛠         | ⭐⭐☆☆☆        |
 
 
 
@@ -43,14 +43,6 @@ _Bachelor of Science in Computer Science_
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 💼 DỰ ÁN / KINH NGHIỆM
-
-### 📌 Student Management System – Cá nhân  
-**Công nghệ:** C++  
-- Thiết kế phần mềm quản lý sinh viên: thêm, sửa, tìm kiếm dữ liệu   
 
 ---
 
